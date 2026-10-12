@@ -2,7 +2,16 @@
 
 > Actualiza las fechas reales al ir completando cada hito. Marca [x] cuando termines algo.
 
-## Fase 1 — Fundamentos (Mes 1-3)
+**Fecha clave:** incorporación al puesto prevista entre el **1 y el 6 de enero** (2027). Las Fases 1-2 de abajo son el objetivo a cubrir *antes* de esa fecha o en paralelo a los primeros meses del puesto.
+
+## 🌍 Pista paralela — Inglés (en marcha ya, 3h/día)
+El inglés es tan crítico como las certificaciones para trabajo remoto internacional — la mayoría de ofertas nómadas lo piden B2+ mínimo.
+- [ ] Nivel actual evaluado (test online tipo Cambridge/EF — anota el resultado aquí)
+- [ ] Objetivo: B2 sólido antes de aplicar a puestos remotos internacionales (~mes 6-9)
+- [ ] Practicar específicamente vocabulario técnico de seguridad en inglés (los cursos de TryHackMe/Security+ ya ayudan con esto de forma gratuita)
+- [ ] Certificación formal opcional (EF SET gratis, o Cambridge/IELTS si un empleador la pide)
+
+## Fase 1 — Fundamentos (Mes 1-3, objetivo: antes/justo al empezar en enero)
 - [ ] Google Cybersecurity Certificate (Coursera)
 - [ ] TryHackMe — ruta "Pre Security"
 - [ ] TryHackMe — ruta "Cyber Security 101"

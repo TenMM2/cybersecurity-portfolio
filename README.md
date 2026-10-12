@@ -14,11 +14,14 @@ Ver [ROADMAP.md](ROADMAP.md) para el plan completo de 18 meses (certificaciones 
 
 | Fase | Estado |
 |---|---|
+| Inglés (3h/día, objetivo B2+) | 🟡 En marcha |
 | Fundamentos (Google Cert / TryHackMe Pre Security) | ⬜ No empezado |
 | CompTIA Security+ | ⬜ No empezado |
 | Especialización (eJPT / BTL1 / Cloud Security) | ⬜ No empezado |
 | Home lab (GOAD) | ⬜ No empezado |
 | CTFs | ⬜ No empezado |
+
+**Incorporación al puesto prevista:** 1-6 de enero.
 
 ---
 
